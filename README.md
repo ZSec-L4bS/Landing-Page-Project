@@ -1,3 +1,3 @@
-Langing Page project!
+Landing Page project!
 <br>
 Developer: Zill E Ali
